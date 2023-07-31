@@ -10,7 +10,6 @@ This repository contains the code for my personal portfolio website. The website
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
